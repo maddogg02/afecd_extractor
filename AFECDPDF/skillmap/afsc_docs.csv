@@ -1,0 +1,218 @@
+doc_id,cem_code,afsc_title,afsc_codes,afsc_families,skill_digits,skill_labels
+aircrew-operations-career-field-9ac1505da6,1A100*,AIRCREW OPERATIONS CAREER FIELD,1A192*;1A172*;1A152*;1A132*;1A112,1A1,1;3;5;7;9,helper;apprentice;journeyman;craftsman;senior_enlisted_leader
+mobility-force-aviator-27bd37197c,1A100*,MOBILITY FORCE AVIATOR,1A193*;1A173*;1A153*;1A133*;1A113,1A1,1;3;5;7;9,helper;apprentice;journeyman;craftsman;senior_enlisted_leader
+special-mission-aviator-ca90ad358d,,SPECIAL MISSION AVIATOR,,,,
+e-mc-130j-acd14fd33b,1A100,E MC-130J,1A174;1A154;1A134;1A178*;1A158*;1A138*;1A890,1A1;1A8,3;5;7;9,apprentice;journeyman;craftsman;superintendent
+sel-airborne-intelligence-surveillance-and-reconnaissance-e98612e433,,"SEL AIRBORNE INTELLIGENCE, SURVEILLANCE AND RECONNAISSANCE",1A871*;1A851*;1A831*;1A811,1A8,1;3;5;7,helper;apprentice;journeyman;craftsman
+airborne-cryptologic-language-analyst-54981e8af1,,AIRBORNE CRYPTOLOGIC LANGUAGE ANALYST,1A872;1A852;1A832;1A812,1A8,1;3;5;7,helper;apprentice;journeyman;craftsman
+airborne-intelligence-surveillance-and-reconnaissance-isr-operator-03280ddbe3,,"AIRBORNE INTELLIGENCE, SURVEILLANCE, AND RECONNAISSANCE (ISR) OPERATOR",,,,
+cyber-warfare-career-field-1c3bd0a511,1B000,CYBER WARFARE CAREER FIELD,1B491,1B4,9,superintendent
+cyber-warfare-operations-80e7129793,,CYBER WARFARE OPERATIONS,1B491;1B471;1B451;1B431;1B411,1B4,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+cyber-warfare-operations-d403b558c0,,CYBER WARFARE OPERATIONS,,,,
+command-and-control-systems-operations-career-field-71daf0b956,1C000,COMMAND AND CONTROL SYSTEMS OPERATIONS CAREER FIELD,1C092;1C072;1C052;1C032;1C012,1C0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+aviation-resource-management-63fed5cb4e,1C100,AVIATION RESOURCE MANAGEMENT,1C191;1C171;1C151;1C131;1C111,1C1,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+air-traffic-control-64be7e7ef1,1C300,AIR TRAFFIC CONTROL,1C391;1C371;1C351;1C331;1C311,1C3,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+all-domain-command-and-control-operations-8e81736a84,1C500,ALL-DOMAIN COMMAND AND CONTROL OPERATIONS,1C591;1C571;1C551;1C531;1C511,1C5,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+battle-management-operations-529fa2b2a9,1C600,BATTLE MANAGEMENT OPERATIONS,1C691;1C671;1C651;1C631;1C611,1C6,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+space-systems-operations-109ad67b73,1C700,SPACE SYSTEMS OPERATIONS,1C791;1C771;1C751;1C731;1C711,1C7,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+airfield-management-2662fc5d30,1C800,AIRFIELD MANAGEMENT,1C893,1C8,9,superintendent
+radar-airfield-weather-systems-cf7f5c8c3a,,"RADAR, AIRFIELD & WEATHER SYSTEMS",1C893;1C873;1C853;1C833;1C813,1C8,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+radar-airfield-weather-systems-3f1c8127d3,,"RADAR, AIRFIELD & WEATHER SYSTEMS",,,,
+warfighter-communications-ead258e254,1D700,WARFIGHTER COMMUNICATIONS,1D791,1D7,9,superintendent
+warfighter-communications-00691aa8a4,,WARFIGHTER COMMUNICATIONS,1D771;1D751;1D731;1D711,1D7,1;3;5;7,helper;apprentice;journeyman;craftsman
+information-technology-it-systems-1114e89745,,INFORMATION TECHNOLOGY (IT) SYSTEMS,1D772;1D752;1D732;1D712,1D7,1;3;5;7,helper;apprentice;journeyman;craftsman
+radio-frequency-transmissions-and-electromagnetic-activities-5e0928c6f4,,RADIO FREQUENCY TRANSMISSIONS AND ELECTROMAGNETIC ACTIVITIES,1D773;1D753;1D733;1D713,1D7,1;3;5;7,helper;apprentice;journeyman;craftsman
+cable-and-antenna-66299076fb,,CABLE AND ANTENNA,1D774;1D754;1D734;1D714,1D7,1;3;5;7,helper;apprentice;journeyman;craftsman
+data-engineering-e6e77ec5f3,,DATA ENGINEERING,1D775;1D755;1D735;1D715,1D7,1;3;5;7,helper;apprentice;journeyman;craftsman
+cybersecurity-5688071d7a,1H000,CYBERSECURITY,1H091;1H071;1H051;1H031;1H011,1H0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+aerospace-physiology-51ac164fe2,,AEROSPACE PHYSIOLOGY,,,,
+intelligence-dc84aad9e4,,INTELLIGENCE,1N071;1N051;1N031;1N011,1N0,1;3;5;7,helper;apprentice;journeyman;craftsman
+all-source-intelligence-analyst-c728656a40,,ALL SOURCE INTELLIGENCE ANALYST,1N092,1N0,9,superintendent
+intelligence-superintendent-db0a07c697,1N000,INTELLIGENCE SUPERINTENDENT,1N171*;1N151*;1N131*;1N111*,1N1,1;3;5;7,helper;apprentice;journeyman;craftsman
+geospatial-intelligence-39dedb51c8,,GEOSPATIAL INTELLIGENCE,,,,
+cem-1n000-97aab1e8c4,,CEM 1N000,1N292,1N2,9,superintendent
+cryptologic-intelligence-superintendent-d588b74537,,CRYPTOLOGIC INTELLIGENCE SUPERINTENDENT,1N271*;1N251*;1N231*;1N211*,1N2,1;3;5;7,helper;apprentice;journeyman;craftsman
+signals-intelligence-ae6e8b763c,,SIGNALS INTELLIGENCE,1N371*;1N351*;1N331*;1N311,1N3,1;3;5;7,helper;apprentice;journeyman;craftsman
+cryptologic-language-analyst-1308ecb2ad,,CRYPTOLOGIC LANGUAGE ANALYST,1N471*;1N451*;1N431*;1N411*,1N4,1;3;5;7,helper;apprentice;journeyman;craftsman
+cyber-intelligence-152bf55c18,,CYBER INTELLIGENCE,1N472;1N452;1N432;1N412,1N4,1;3;5;7,helper;apprentice;journeyman;craftsman
+cryptologic-analyst-reporter-5e114e22f7,,CRYPTOLOGIC ANALYST & REPORTER,,,,
+cem-1n000-6f3085968f,,CEM 1N000,1N771;1N731;1N711,1N7,1;3;7,helper;apprentice;craftsman
+human-intelligence-specialist-c9d4b34722,1N000,HUMAN INTELLIGENCE SPECIALIST,1N771;1N871;1N851;1N831;1N811,1N7;1N8,1;3;5;7,helper;apprentice;journeyman;craftsman
+targeting-analyst-e2374f1654,,TARGETING ANALYST,,,,
+aircrew-flight-equipment-career-field-252ce11e8e,1P000,AIRCREW FLIGHT EQUIPMENT CAREER FIELD,1P091;1P071;1P051;1P031;1P011,1P0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+aircrew-flight-equipment-e0d9adbb3b,,AIRCREW FLIGHT EQUIPMENT,,,,
+safety-career-field-1d56c78216,1S000,SAFETY CAREER FIELD,1S091;1S071;1S051;1S031,1S0,3;5;7;9,apprentice;journeyman;craftsman;superintendent
+special-warfare-enabler-career-field-96e2679691,1T000,SPECIAL WARFARE ENABLER CAREER FIELD,1T091;1T071;1T051;1T031;1T011,1T0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+survival-evasion-resistance-escape-sere-specialist-6c8d041f65,,"SURVIVAL, EVASION, RESISTANCE, ESCAPE (SERE) SPECIALIST",,,,
+aircrew-operations-career-field-820d053fe6,,AIRCREW OPERATIONS CAREER FIELD,1U191;1U171;1U151;1U131;1U111,1U1,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+remotely-piloted-aircraft-rpa-pilot-d9908974ff,,REMOTELY PILOTED AIRCRAFT (RPA) PILOT,,,,
+weather-career-field-9e63292105,1W000,WEATHER CAREER FIELD,1W091;1W071;1W051;1W031;1W011,1W0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+weather-70c89b5f1b,,WEATHER,,,,
+special-warfare-career-field-8ee57d2913,1Z100,SPECIAL WARFARE CAREER FIELD,1Z191;1Z171;1Z151;1Z131;1Z111,1Z1,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+pararescue-323d661b1f,1Z200,PARARESCUE,1Z291;1Z271;1Z251;1Z231;1Z211,1Z2,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+combat-control-f6728fb2c6,1Z300,COMBAT CONTROL,1Z391;1Z371;1Z351;1Z331;1Z311,1Z3,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+tactical-air-control-party-a1a5d2972d,1Z400,TACTICAL AIR CONTROL PARTY,1Z491;1Z471;1Z451;1Z431;1Z411,1Z4,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+special-reconnaissance-52555c3f30,,SPECIAL RECONNAISSANCE,,,,
+aerospace-maintenance-career-field-545e7a6253,,AEROSPACE MAINTENANCE CAREER FIELD,2A090,2A0,9,superintendent
+avionics-87952dde08,,AVIONICS,2A090;2A071;2A051;2A031;2A011,2A0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+avionics-test-station-components-and-electronic-warfare-systems-52f7ff4057,,"AVIONICS TEST STATION, COMPONENTS, AND ELECTRONIC WARFARE SYSTEMS",2A251;2A231;2A211,2A2,1;3;5,helper;apprentice;journeyman
+mhu-139-electrical-environmental-and-avionics-technician-c15fd4eef9,2A300,"MHU-139 ELECTRICAL, ENVIRONMENTAL AND AVIONICS TECHNICIAN",2A390,2A3,9,superintendent
+fighter-aircraft-maintenance-aba9cc624c,,FIGHTER AIRCRAFT MAINTENANCE,2A390;2A373;2A353*;2A333*;2A313*,2A3,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+tactical-aircraft-maintenance-1ae1eba20a,,TACTICAL AIRCRAFT MAINTENANCE,,,,
+e-a-10-u-2-67a0301bbd,,E A-10/U-2,2A374;2A354*;2A334*;2A314*,2A3,1;3;5;7,helper;apprentice;journeyman;craftsman
+fighter-aircraft-integrated-avionics-d1b0c2de5a,,FIGHTER AIRCRAFT INTEGRATED AVIONICS,2A375;2A355*;2A335*;2A315*,2A3,1;3;5;7,helper;apprentice;journeyman;craftsman
+advanced-fighter-aircraft-integrated-avionics-8bd0f39cb2,,ADVANCED FIGHTER AIRCRAFT INTEGRATED AVIONICS,2A377;2A357*;2A337*;2A317*,2A3,1;3;5;7,helper;apprentice;journeyman;craftsman
+tactical-aircraft-maintenance-716f26ba89,2A500,TACTICAL AIRCRAFT MAINTENANCE,2A590,2A5,9,superintendent
+airlift-special-mission-aircraft-maintenance-superintendent-d4ce73f77b,,AIRLIFT/SPECIAL MISSION AIRCRAFT MAINTENANCE SUPERINTENDENT,2A590;2A571;2A551*;2A531*;2A511*,2A5,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+airlift-special-mission-aircraft-maintenance-4f5bf9d7a2,,AIRLIFT/SPECIAL MISSION AIRCRAFT MAINTENANCE,,,,
+m-mq-1-9-r-rq-4-a232f31990,,M MQ-1/9 R RQ-4,2A572;2A552*;2A532*;2A512*,2A5,1;3;5;7,helper;apprentice;journeyman;craftsman
+helicopter-tiltrotor-aircraft-maintenance-854ba5e034,,HELICOPTER/TILTROTOR AIRCRAFT MAINTENANCE,,,,
+e-mhu-139-f10219e53b,,E MHU-139,2A574;2A554*;2A534*;2A514*,2A5,1;3;5;7,helper;apprentice;journeyman;craftsman
+refuel-bomber-aircraft-maintenance-d7fcfc3a41,,REFUEL/BOMBER AIRCRAFT MAINTENANCE,,,,
+aircraft-systems-c214838e4d,,AIRCRAFT SYSTEMS,2A691;2A671*;2A651*;2A631*;2A611*,2A6,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+aerospace-propulsion-8a9e5bfaa1,,AEROSPACE PROPULSION,,,,
+tf33-cf6-f103-f108-f117-tfe-731-tf39-ac17545b6c,,"TF33, CF6, F103, F108, F117, TFE-731, TF39,",2A692;2A672;2A652;2A632;2A612,2A6,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+aerospace-ground-equipment-4d1dcea3af,,AEROSPACE GROUND EQUIPMENT,2A690,2A6,9,superintendent
+aircraft-accessories-f90f9bedc1,,AIRCRAFT ACCESSORIES,2A690;2A673;2A653;2A633;2A613,2A6,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+aircrew-egress-systems-feb3d8b00e,,AIRCREW EGRESS SYSTEMS,2A674;2A654;2A634;2A614,2A6,1;3;5;7,helper;apprentice;journeyman;craftsman
+aircraft-fuel-systems-061ecdac5b,,AIRCRAFT FUEL SYSTEMS,2A675;2A655;2A635;2A615,2A6,1;3;5;7,helper;apprentice;journeyman;craftsman
+aircraft-hydraulic-systems-dc5805a472,,AIRCRAFT HYDRAULIC SYSTEMS,2A676;2A656;2A636;2A616,2A6,1;3;5;7,helper;apprentice;journeyman;craftsman
+aircraft-electrical-and-environmental-systems-7f79721bbe,,AIRCRAFT ELECTRICAL AND ENVIRONMENTAL SYSTEMS,2A790,2A7,9,superintendent
+aircraft-fabrication-f5c7506295,,AIRCRAFT FABRICATION,2A790;2A771;2A751;2A731;2A711,2A7,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+aircraft-metals-technology-8f5e321b16,,AIRCRAFT METALS TECHNOLOGY,2A772;2A752;2A732;2A712,2A7,1;3;5;7,helper;apprentice;journeyman;craftsman
+nondestructive-inspection-82eb984d27,,NONDESTRUCTIVE INSPECTION,2A773;2A753;2A733,2A7,3;5;7,apprentice;journeyman;craftsman
+aircraft-structural-maintenance-3582024dc8,,AIRCRAFT STRUCTURAL MAINTENANCE,2A974*;2A954*;2A934*;2A914*,2A9,1;3;5;7,helper;apprentice;journeyman;craftsman
+heavy-aircraft-integrated-avionics-33838ec450,,HEAVY AIRCRAFT INTEGRATED AVIONICS,,,,
+fuels-career-field-8d3efa7a68,2F000,FUELS CAREER FIELD,2F091;2F071;2F051;2F031,2F0,3;5;7;9,apprentice;journeyman;craftsman;superintendent
+logistics-plans-career-field-7ea2164ac3,2G000,LOGISTICS PLANS CAREER FIELD,2G091;2G071;2G051;2G031;2G011,2G0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+logistics-plans-d7e55415d3,,LOGISTICS PLANS,,,,
+missile-and-space-systems-maintenance-career-field-9115a43403,2M000,MISSILE AND SPACE SYSTEMS MAINTENANCE CAREER FIELD,2M090,2M0,9,superintendent
+missile-and-space-systems-maintenance-92c4db05f4,,MISSILE AND SPACE SYSTEMS MAINTENANCE,2M090;2M071;2M051*;2M031*;2M011*,2M0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+missile-and-space-systems-electronic-maintenance-b169edec36,,MISSILE AND SPACE SYSTEMS ELECTRONIC MAINTENANCE,2M072;2M052;2M032;2M012,2M0,1;3;5;7,helper;apprentice;journeyman;craftsman
+missile-and-space-systems-maintenance-5db23988b2,,MISSILE AND SPACE SYSTEMS MAINTENANCE,2M073;2M053;2M033;2M013,2M0,1;3;5;7,helper;apprentice;journeyman;craftsman
+missile-and-space-facilities-1da398d5f0,,MISSILE AND SPACE FACILITIES,,,,
+precision-measurement-equipment-laboratory-career-field-4cf9afead8,2P000,PRECISION MEASUREMENT EQUIPMENT LABORATORY CAREER FIELD,2P091;2P071;2P051;2P031;2P011,2P0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+precision-measurement-equipment-laboratory-da23bbf98e,,PRECISION MEASUREMENT EQUIPMENT LABORATORY,,,,
+maintenance-management-career-field-11f4704af2,2R200,MAINTENANCE MANAGEMENT CAREER FIELD,2R291;2R271;2R251;2R231;2R211,2R2,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+maintenance-management-3d5fd6728b,,MAINTENANCE MANAGEMENT,,,,
+materiel-management-career-field-cf9c8fe085,2S000,MATERIEL MANAGEMENT CAREER FIELD,2S091;2S071;2S051;2S031;2S011,2S0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+materiel-management-86cb65f289,,MATERIEL MANAGEMENT,,,,
+transportation-and-vehicle-management-career-field-2a6a7d8448,2T000,TRANSPORTATION AND VEHICLE MANAGEMENT CAREER FIELD,2T091;2T071;2T051;2T031;2T011,2T0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+traffic-management-operations-5645296ef8,2T100,TRAFFIC MANAGEMENT OPERATIONS,2T191;2T171;2T151;2T131;2T111,2T1,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+ground-transportation-e0b1af36b6,2T200,GROUND TRANSPORTATION,2T291;2T271;2T251;2T231;2T211,2T2,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+air-transportation-1a3d5388b8,2T300,AIR TRANSPORTATION,2T390,2T3,9,superintendent
+vehicle-management-3968ab3ac4,,VEHICLE MANAGEMENT,2T371;2T351;2T331;2T311,2T3,1;3;5;7,helper;apprentice;journeyman;craftsman
+mission-generation-vehicular-equipment-maintenance-84a9c92c60,,MISSION GENERATION VEHICULAR EQUIPMENT MAINTENANCE,2T351;2T371;2T377;2T357;2T337;2T317,2T3,1;3;5;7,helper;apprentice;journeyman;craftsman
+fleet-management-and-analysis-9d08eaa9d0,,FLEET MANAGEMENT AND ANALYSIS,,,,
+munitions-and-weapons-career-field-f55b63d49c,2W000,MUNITIONS AND WEAPONS CAREER FIELD,2W091;2W071;2W051;2W031;2W011,2W0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+munitions-systems-2d5abb1d1a,2W100,MUNITIONS SYSTEMS,2W191;2W171;2W151;2W131*;2W111*,2W1,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+aircraft-armament-systems-a446d2c81a,,AIRCRAFT ARMAMENT SYSTEMS,,,,
+k-b-52-b-2-783a609259,2W200,K B-52/B-2,2W291;2W271;2W251;2W231;2W211,2W2,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+nuclear-weapons-5ca6fc1c83,,NUCLEAR WEAPONS,,,,
+civil-engineering-career-field-06c82559cc,3E000,CIVIL ENGINEERING CAREER FIELD,3E090,3E0,9,superintendent
+facility-systems-740da00aa4,,FACILITY SYSTEMS,3E090;3E071;3E051;3E031;3E011,3E0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+electrical-systems-9d5d23640a,,ELECTRICAL SYSTEMS,3E072;3E052;3E032;3E012,3E0,1;3;5;7,helper;apprentice;journeyman;craftsman
+electrical-power-production-4731cc958b,,ELECTRICAL POWER PRODUCTION,3E171;3E151;3E131;3E111,3E1,1;3;5;7,helper;apprentice;journeyman;craftsman
+heating-ventilation-air-conditioning-and-refrigeration-ba546d25c3,3E000,"HEATING, VENTILATION, AIR CONDITIONING, AND REFRIGERATION",3E290,3E2,9,superintendent
+heavy-repair-21069204ce,,HEAVY REPAIR,3E290;3E271;3E251;3E231;3E211,3E2,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+pavements-and-construction-equipment-edf056055f,,PAVEMENTS AND CONSTRUCTION EQUIPMENT,3E371;3E351;3E331;3E311,3E3,1;3;5;7,helper;apprentice;journeyman;craftsman
+structural-da9a967f5d,3E000,STRUCTURAL,3E490,3E4,9,superintendent
+infrastructure-systems-c8b78b7980,,INFRASTRUCTURE SYSTEMS,3E490;3E431;3E411,3E4,1;3;9,helper;apprentice;superintendent
+water-and-fuel-systems-maintenance-b9fb292c31,,WATER AND FUEL SYSTEMS MAINTENANCE,3E473;3E453;3E433;3E413,3E4,1;3;5;7,helper;apprentice;journeyman;craftsman
+pest-management-8b36a47ecf,3E000,PEST MANAGEMENT,3E591;3E571;3E551;3E531;3E511,3E5,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+engineering-f827cbefc4,3E000,ENGINEERING,3E691;3E671;3E651;3E631;3E611,3E6,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+operations-management-554fd93be4,3E700,OPERATIONS MANAGEMENT,3E791;3E771;3E751;3E731;3E711,3E7,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+fire-protection-df29116934,3E800,FIRE PROTECTION,3E891;3E871;3E851;3E831;3E811,3E8,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+explosive-ordnance-disposal-08bf7a587b,,EXPLOSIVE ORDNANCE DISPOSAL,,,,
+x-x-x-x-x-5ed9799c18,3E900,X X X X X,3E991;3E971;3E951;3E931;3E911,3E9,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+emergency-management-127fdcde5a,3F000,EMERGENCY MANAGEMENT,3F091;3F071;3F051;3F031;3F011,3F0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+personnel-44eb30b843,3F100,PERSONNEL,3F191;3F171;3F151;3F131;3F111,3F1,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+services-a9837611c5,,SERVICES,3F291;3F271;3F251;3F231;3F211,3F2,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+education-and-training-ecfffa6219,3F300,EDUCATION AND TRAINING,3F391;3F371;3F351;3F331;3F311,3F3,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+manpower-b2b8d6049f,3F400,MANPOWER,3F491;3F471;3F431;3F411,3F4,1;3;7;9,helper;journeyman;craftsman;superintendent
+equal-opportunity-189af20d27,3F500,EQUAL OPPORTUNITY,3F591;3F571;3F551;3F531;3F511,3F5,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+administration-9832216a98,3G000,ADMINISTRATION,3G091;3G071;3G051;3G031;3G011,3G0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+talent-acquisition-f7678b40f5,,TALENT ACQUISITION,,,,
+historian-career-field-6754c77750,,HISTORIAN CAREER FIELD,3H091;3H071;3H051;3H031;3H011,3H0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+historian-35405d2d74,,HISTORIAN,,,,
+public-affairs-career-field-f86d342eca,3N000,PUBLIC AFFAIRS CAREER FIELD,3N090,3N0,9,superintendent
+public-affairs-b25299cf07,,PUBLIC AFFAIRS,3N090;3N076;3N056;3N036;3N016,3N0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+public-affairs-121f40b568,3N100,PUBLIC AFFAIRS,3N191;3N171*;3N151*;3N131*;3N111*,3N1,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+regional-band-63c8aa4d5f,3N200,REGIONAL BAND,3N291;3N271;3N251,3N2,5;7;9,journeyman;craftsman;superintendent
+premier-band-the-usaf-band-f3ff67885a,3N300,PREMIER BAND -THE USAF BAND,3N391;3N371;3N351,3N3,5;7;9,journeyman;craftsman;superintendent
+premier-band-the-usaf-academy-band-0b12318f74,,PREMIER BAND -THE USAF ACADEMY BAND,,,,
+security-forces-career-field-891fde6065,3P000,SECURITY FORCES CAREER FIELD,3P091;3P071*,3P0,7;9,craftsman;superintendent
+security-forces-1962627fb5,,SECURITY FORCES,,,,
+medical-career-field-087a04fe81,4A000,MEDICAL CAREER FIELD,4A091;4A071*;4A051*;4A031;4A011,4A0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+health-services-management-04544b0bb6,4A100,HEALTH SERVICES MANAGEMENT,4A191;4A171;4A151;4A131;4A111,4A1,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+medical-materiel-128b2453d8,4A200,MEDICAL MATERIEL,4A291;4A271;4A251;4A231;4A211,4A2,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+biomedical-equipment-76111cfa1d,4B000,BIOMEDICAL EQUIPMENT,4B091;4B071;4B051;4B031;4B011,4B0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+bioenvironmental-engineering-bf769ba7d0,4C000,BIOENVIRONMENTAL ENGINEERING,4C091;4C071;4C051;4C031;4C011,4C0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+mental-health-service-e735830fb6,4D000,MENTAL HEALTH SERVICE,4D091;4D071;4D051;4D031;4D011,4D0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+diet-therapy-0d15aedd48,4E000,DIET THERAPY,4E091;4E071;4E051;4E031;4E011,4E0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+public-health-3682dc3c36,4H000,PUBLIC HEALTH,4H091;4H071;4H051;4H031;4H011,4H0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+respiratory-care-practitioner-9fdac629f2,4J000,RESPIRATORY CARE PRACTITIONER,4J090;4J072*;4J052*;4J032*;4J012*,4J0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+physical-medicine-63da66c178,4N000,PHYSICAL MEDICINE,4N091;4N071*;4N051*;4N031*;4N011*,4N0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+aerospace-medical-service-ea4d2c24d8,4N000,AEROSPACE MEDICAL SERVICE,4N191;4N171*;4N151*;4N131*;4N111*,4N1,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+surgical-technologist-fce66c63aa,4P000,SURGICAL TECHNOLOGIST,4P091;4P071;4P051;4P031;4P011,4P0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+pharmacy-f5dc32fabd,4R000,PHARMACY,4R090;4R071*;4R051*;4R031*;4R011*,4R0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+diagnostic-imaging-5004c2d106,4T000,DIAGNOSTIC IMAGING,4T090,4T0,9,superintendent
+medical-laboratory-d8165d6df5,,MEDICAL LABORATORY,4T090;4T071;4T051;4T031;4T011,4T0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+medical-laboratory-5614d4161c,,MEDICAL LABORATORY,4T072;4T052;4T032;4T012,4T0,1;3;5;7,helper;apprentice;journeyman;craftsman
+histopathology-fb7cf672ac,4V000,HISTOPATHOLOGY,4V091;4V071*;4V051*;4V031*;4V011*,4V0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+ophthalmic-a0ea771f6f,,OPHTHALMIC,,,,
+dental-career-field-9b868d85a3,4Y000,DENTAL CAREER FIELD,4Y090;4Y071*;4Y051*;4Y031;4Y011,4Y0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+dental-assistant-0d7813bb4e,,DENTAL ASSISTANT,4Y072;4Y052;4Y032;4Y012,4Y0,1;3;5;7,helper;apprentice;journeyman;craftsman
+dental-laboratory-d0fef3975a,,DENTAL LABORATORY,,,,
+paralegal-career-field-ae53175a45,5J000,PARALEGAL CAREER FIELD,5J091;5J071;5J051;5J031;5J011,5J0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+paralegal-76a3f1a619,,PARALEGAL,,,,
+religious-affairs-career-field-6817df53d4,5R000,RELIGIOUS AFFAIRS CAREER FIELD,5R091;5R071;5R051;5R031;5R011,5R0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+religious-affairs-7e769865db,,RELIGIOUS AFFAIRS,,,,
+contracting-career-field-f12e12b2a6,6C000,CONTRACTING CAREER FIELD,6C071;6C051;6C031;6C011,6C0,1;3;5;7,helper;apprentice;journeyman;craftsman
+contracting-ba04f65e95,,CONTRACTING,,,,
+financial-career-field-17b9dc4a97,6F000,FINANCIAL CAREER FIELD,6F091;6F071;6F051;6F031;6F011,6F0,1;3;5;7;9,helper;apprentice;journeyman;craftsman;superintendent
+financial-management-and-comptroller-9b65df751b,,FINANCIAL MANAGEMENT AND COMPTROLLER,,,,
+special-investigations-career-field-b7b5f357a3,7S000,SPECIAL INVESTIGATIONS CAREER FIELD,7S091;7S071;7S031;7S011,7S0,1;3;7;9,helper;journeyman;craftsman;superintendent
+special-investigations-0b5432dff9,,SPECIAL INVESTIGATIONS,,,,
+enlisted-aide-8f6debc2f3,,ENLISTED AIDE,,,,
+protocol-786db7e056,,PROTOCOL,,,,
+talent-management-consultant-a49ecf1028,,TALENT MANAGEMENT CONSULTANT,,,,
+miltary-training-instructor-4e930b21cd,,MILTARY TRAINING INSTRUCTOR,,,,
+military-training-leader-beefe69961,,MILITARY TRAINING LEADER,,,,
+academy-military-training-nco-6567ea49b3,,ACADEMY MILITARY TRAINING NCO,,,,
+officer-accessions-intructor-73b0ab27e6,,OFFICER ACCESSIONS INTRUCTOR,,,,
+military-and-family-readiness-non-commissioned-officer-2ff28cb967,,MILITARY AND FAMILY READINESS NON-COMMISSIONED OFFICER,,,,
+language-culture-advisor-6e63116217,,LANGUAGE & CULTURE ADVISOR,,,,
+first-sergeant-ef07830db8,,FIRST SERGEANT,,,,
+guardian-first-sergeant-5b478a4e51,8G000,GUARDIAN FIRST SERGEANT,,,,
+premier-honor-guard-17e5ac16c8,,PREMIER HONOR GUARD,,,,
+base-honor-guard-program-manager-ff12514eb2,,BASE HONOR GUARD PROGRAM MANAGER,,,,
+airmen-dorm-leader-fbedc27bde,,AIRMEN DORM LEADER,,,,
+superintendent-inspector-general-ae6dad25f9,,"SUPERINTENDENT, INSPECTOR GENERAL",,,,
+inspections-coordinator-6de7159803,,INSPECTIONS COORDINATOR,,,,
+complaints-resolution-coordinator-6207bc9737,,COMPLAINTS & RESOLUTION COORDINATOR,,,,
+software-development-specialist-aad414215f,,SOFTWARE DEVELOPMENT SPECIALIST,,,,
+air-advisor-functional-category-c293746721,,AIR ADVISOR FUNCTIONAL CATEGORY,,,,
+courier-6b5dccac0b,,COURIER,,,,
+sdi-8p100-7297e6cee7,,SDI 8P100,,,,
+enlisted-accessions-recruiter-2445a1edb6,,ENLISTED ACCESSIONS RECRUITER,,,,
+second-tier-recruiter-290c2f6895,,SECOND-TIER RECRUITER,,,,
+third-tier-recruiter-b38704b525,,THIRD-TIER RECRUITER,,,,
+missile-facility-manager-c23c801fd2,,MISSILE FACILITY MANAGER,,,,
+combat-crew-communications-112e9d7334,,COMBAT CREW COMMUNICATIONS,,,,
+professional-military-education-instructor-984347c3c0,,PROFESSIONAL MILITARY EDUCATION INSTRUCTOR,,,,
+enlisted-professional-military-education-instructional-system-designer-402e971af5,,ENLISTED PROFESSIONAL MILITARY EDUCATION INSTRUCTIONAL SYSTEM DESIGNER,,,,
+development-advisor-a0d7da02bc,,DEVELOPMENT ADVISOR,,,,
+unit-deployment-manager-eb749f8396,,UNIT DEPLOYMENT MANAGER,,,,
+sdi-8u100-635e828b8c,,SDI 8U100,,,,
+weapons-safety-manager-wing-level-5fe3310dfa,,WEAPONS SAFETY MANAGER -WING LEVEL,,,,
+space-force-specialty-codes-ea58fadaed,5Z900,SPACE FORCE SPECIALTY CODES,,,,
+cyber-operations-bd3b3e2f73,,CYBER OPERATIONS,,,,
+all-source-analyst-c952912080,,ALL SOURCE ANALYST,,,,
+cryptologic-analyst-44727711d5,,CRYPTOLOGIC ANALYST,,,,
+space-systems-operations-cd107b4dea,,SPACE SYSTEMS OPERATIONS,,,,
+sdi-8b400-05bbd3d1b6,,SDI 8B400,,,,
+guardian-training-leader-ca8fdd2580,,GUARDIAN TRAINING LEADER,,,,
+sdi-8g200-6dc31b5203,,SDI 8G200,,,,
+guardian-talent-scout-65827e53ad,,GUARDIAN TALENT SCOUT,,,,
+sdi-8t300-4440cfbd21,,SDI 8T300,,,,

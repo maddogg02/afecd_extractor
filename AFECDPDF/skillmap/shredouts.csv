@@ -1,0 +1,31 @@
+doc_id,suffix,primary_aircraft
+mobility-force-aviator-27bd37197c,A,C-5 Flight Engineer
+mobility-force-aviator-27bd37197c,J,KC-10 Flight Engineer
+mobility-force-aviator-27bd37197c,B,C-5 Loadmaster
+mobility-force-aviator-27bd37197c,K,E-8 Flight Engineer
+mobility-force-aviator-27bd37197c,C,C-17 Loadmaster
+mobility-force-aviator-27bd37197c,L,C-130H Flight Engineer
+mobility-force-aviator-27bd37197c,D,C-130J Loadmaster
+mobility-force-aviator-27bd37197c,N,C-130H Loadmaster
+mobility-force-aviator-27bd37197c,E,WC-130 Loadmaster
+mobility-force-aviator-27bd37197c,O,EC-130H Flight Engineer
+mobility-force-aviator-27bd37197c,F,E-3 Flight Engineer
+mobility-force-aviator-27bd37197c,P,LC-130H Loadmaster
+mobility-force-aviator-27bd37197c,G,KC-46 Boom Operator
+mobility-force-aviator-27bd37197c,Q,LC-130H Flight Engineer
+mobility-force-aviator-27bd37197c,H,KC-135 Boom Operator
+mobility-force-aviator-27bd37197c,I,KC-10 Boom Operator
+special-mission-aviator-ca90ad358d,F,HH-60 Flight Engineer
+special-mission-aviator-ca90ad358d,B,CV-22 Flight Engineer
+special-mission-aviator-ca90ad358d,G,MH-139 Flight Engineer
+special-mission-aviator-ca90ad358d,C,UH-1N Flight Engineer
+special-mission-aviator-ca90ad358d,H,C-146 Loadmaster
+special-mission-aviator-ca90ad358d,D,HC-130J Loadmaster
+e-mc-130j-acd14fd33b,A,E-3G Radar/Comm/Mission Operator
+e-mc-130j-acd14fd33b,F,MQ-9 Sensor Operator
+e-mc-130j-acd14fd33b,B,E-3A Radar/Comm/Mission Operator
+e-mc-130j-acd14fd33b,C,E-9 Systems Operator
+e-mc-130j-acd14fd33b,H,RQ-4 Sensor Operator
+refuel-bomber-aircraft-maintenance-d7fcfc3a41,A,Any C-135/E-3/E-8
+heavy-aircraft-integrated-avionics-33838ec450,A,"C4ISR Mission Systems (E-3, E-4, E-7, E-11, EC-130H, RC-135, VC-25)"
+heavy-aircraft-integrated-avionics-33838ec450,B,"Remotely Piloted Aircraft (MQ-1, MQ-9, RQ-4)"

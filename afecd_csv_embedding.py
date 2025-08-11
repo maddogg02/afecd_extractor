@@ -98,11 +98,25 @@ def as_str(x) -> str:
     return s
 
 def clean_ref(raw: str) -> str:
-    """Normalize a ref like 2.1, 2.1., '2.1 '."""
+    """Normalize a section reference.
+
+    The original implementation attempted to strip a trailing period only when
+    the reference contained a single dot (e.g. ``"2."``).  Multi-part
+    references such as ``"2.1."`` therefore kept their trailing period, which
+    later caused lookups to fail because the keys no longer matched.  We simply
+    need to drop any trailing ``.`` regardless of how many segments are in the
+    reference.
+
+    Examples::
+
+        clean_ref("2.1.") -> "2.1"
+        clean_ref("2.")   -> "2"
+
+    """
     s = as_str(raw)
     s = s.replace("..", ".").strip()
-    if s.endswith(".") and s.count(".") == 1:
-        s = s[:-1]
+    # remove any trailing periods (e.g. "2.1." -> "2.1")
+    s = s.rstrip(".")
     return s
 
 def get_col(df: pd.DataFrame, candidates: List[str]) -> Optional[str]:
